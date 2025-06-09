@@ -1,5 +1,4 @@
 my second test!
 1st modefy
 2nd modefy
-3rd modefy!
-~~ on mybranch -- 4th modefy!
+~~ on mybranch -- modefy!
